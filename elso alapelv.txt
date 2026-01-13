@@ -1,0 +1,3 @@
+Kimerítő teszt nem lehetséges
+
+Kimerítő teszt alatt a bemeneti értékek összes kombinációjának ellenőrzését értjük.
