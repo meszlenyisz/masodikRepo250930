@@ -1,3 +1,5 @@
 Kimerítő teszt nem lehetséges
 
 Kimerítő teszt alatt a bemeneti értékek összes kombinációjának ellenőrzését értjük.
+
+Az összes kombinációt tesztekkel lefedni viszont túlságosan erőforrásigényes tevékenység.
