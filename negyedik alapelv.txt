@@ -1,0 +1,3 @@
+Hibafürtök
+
+Egy rendszerben a hibák nem egyenletesen, hanem csoportosulva jelennek meg.
