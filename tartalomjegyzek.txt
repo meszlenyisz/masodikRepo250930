@@ -5,3 +5,5 @@ A tesztelés 7 alapelve
 3. Korai tesztelés jelentősége
 4. Hibafürtök
 5. Féregirtó paradoxon
+
+Ezt a master ágban írom.
