@@ -7,3 +7,4 @@ A tesztelés 7 alapelve
 5. Féregirtó paradoxon
 
 Ezt a master ágban írom.
+
