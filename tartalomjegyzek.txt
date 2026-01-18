@@ -8,3 +8,4 @@ A tesztelés 7 alapelve
 
 Ezt a master ágban írom.
 
+Lokálisan változtatok a tartalomjegyzéken.
