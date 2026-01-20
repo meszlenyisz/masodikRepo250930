@@ -11,3 +11,4 @@ Ezt a master ágban írom.
 Lokálisan változtatok a tartalomjegyzéken.
 
 Most pedig a központiRepo-ban változtatok.
+
