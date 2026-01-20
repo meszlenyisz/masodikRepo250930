@@ -4,3 +4,12 @@ A tesztelés 7 alapelve
 2. A tesztelés a hibák jelenlétét, nem hiányukat jelzi
 3. Korai tesztelés jelentősége
 4. Hibafürtök
+5. Féregirtó paradoxon
+
+Ezt a master ágban írom.
+
+Lokálisan változtatok a tartalomjegyzéken.
+
+Most pedig a központiRepo-ban változtatok.
+
+próba
