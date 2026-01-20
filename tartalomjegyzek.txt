@@ -12,3 +12,4 @@ Lokálisan változtatok a tartalomjegyzéken.
 
 Most pedig a központiRepo-ban változtatok.
 
+próba
